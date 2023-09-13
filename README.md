@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sanku-Bairagya/Sanku-Bairagya/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.png)
 
-<img align=right width=500px height=400px src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align=right width=400px height=300px src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Sanku Das Bairagya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
